@@ -2,3 +2,22 @@ label {
   display: block;
   margin: 0.5rem;
 }
+
+body{
+  width: 100%
+  height: auto;
+}
+
+form{
+  width: 50%;
+  margin: auto;
+}
+
+
+fieldset{
+  /*border-style: hidden;*/
+}
+
+h1{
+  text-align: center;
+}
